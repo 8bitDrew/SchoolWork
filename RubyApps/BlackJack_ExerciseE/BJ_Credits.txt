@@ -1,0 +1,8 @@
+
+Thank you for playing the Ruby Blackjack game
+
+
+Developed by Andrew Cox
+
+
+Copyright 2017
