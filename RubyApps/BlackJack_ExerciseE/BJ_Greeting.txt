@@ -1,6 +1,0 @@
-Welcome to the Ruby BlackJack Game
-
-
-
-
-Press enter to continue
