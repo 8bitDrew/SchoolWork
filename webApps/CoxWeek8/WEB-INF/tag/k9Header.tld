@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!DOCTYPE taglib
+PUBLIC "-//Sun Microsystems, Inc.//DTD JSP Tag Library 1.2//EN"
+"http://java.sun.com/j2ee/dtds/web-jsptaglib_1_1.dtd">
+
+<taglib>
+<tlibversion>1.0</tlibversion>
+<jspversion>1.1</jspversion>
+<uri>/WEB-INF/tag/k9Header</uri>
+<tag>
+	<name>k9HeaderTag</name>
+	<tag-class>myTag.k9Header</tag-class>
+	<attribute>
+		<name>table</name>
+		<required>true</required>
+	</attribute>
+	
+</tag>
+</taglib>
